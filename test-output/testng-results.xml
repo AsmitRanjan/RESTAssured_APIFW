@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3722" started-at="2019-09-27T05:12:13Z" finished-at="2019-09-27T05:12:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3722" started-at="2019-09-27T05:12:13Z" finished-at="2019-09-27T05:12:17Z">
+      <class name="com.twitter.testcases.Post_Test_1">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.twitter.testcases.Post_Test_1@34340fab]" name="getData" is-config="true" duration-ms="462" started-at="2019-09-27T10:42:13Z" finished-at="2019-09-27T10:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="post_1_test()[pri:0, instance:com.twitter.testcases.Post_Test_1@34340fab]" name="post_1_test" duration-ms="3241" started-at="2019-09-27T10:42:14Z" finished-at="2019-09-27T10:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_1_test -->
+      </class> <!-- com.twitter.testcases.Post_Test_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
